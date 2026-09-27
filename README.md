@@ -3,8 +3,6 @@
 A daily habit and fitness task tracker built with Laravel — track tasks, build streaks, 
 and visualize progress over time.
 
-🔗 **Live:** [add your Render URL here]
-
 ## Features
 
 - **Task management** — create, edit, categorize, and prioritize daily tasks, with soft-delete 
